@@ -1,4 +1,10 @@
 body
+
+#Cabecera 
+{
+    text-align: left;
+    font-size: 15px;
+}
 {
     color: #333;  
     text-align: center;
@@ -20,3 +26,4 @@ body
 {
     font-size: 20px;
 }
+
